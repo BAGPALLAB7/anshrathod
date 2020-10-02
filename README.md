@@ -1,4 +1,6 @@
-### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=anshrathod.anshrathod)
+### Hi there 👋 
+
+![](https://visitor-badge.glitch.me/badge?page_id=anshrathod.anshrathod)
 
 <!--
 **anshrathod/anshrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
