@@ -13,7 +13,7 @@
 - :beginner: I'm currently learning Flutter for Mobile App Development!
 - :fire: Besides programming, you may find me watching Anime or playing mobile games.
 - :alien: Learning any technology that apears on my way.
-
+<br><br><br><br><br><br>
 <img src="https://media.tenor.com/images/4a8695051eb201aaab83a058ac1dfaaa/tenor.gif" align="right" width="35%">
 
 #### :speech_balloon: Languages : &nbsp;[<img align="center" src="https://img.shields.io/badge/PYTHON3-blue?logo=python&logoColor=white&labelColor=3776AB&color=3776AB" alt="Python" />](https://www.python.org/) &nbsp; [<img align="center" src="https://img.shields.io/badge/DART-blue?logo=dart&logoColor=white&labelColor=0175C2&color=0175C2"  alt="Dart" />](https://www.dart.dev/) &nbsp; [<img align="center" src="https://img.shields.io/badge/JAVASCRIPT-blue?logo=javascript&logoColor=black&labelColor=F7DF1E&color=F7DF1E"  alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
